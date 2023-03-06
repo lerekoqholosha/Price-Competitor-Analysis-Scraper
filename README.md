@@ -13,7 +13,7 @@ You can install these libraries by running the following command:
 `pip install beautifulsoup4 requests`
 
  # Usage
-To use the script, simply run the scraper.py file in your Python environment. 
+To use the script, simply run the scraper.py file in your Python environment.you need to put the link on csv file first.
 
 The script will extract data from each website and save it in a CSV file named output.csv. The CSV file will contain the following columns:
 
