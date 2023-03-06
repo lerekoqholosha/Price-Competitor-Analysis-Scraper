@@ -10,6 +10,7 @@ Beautiful Soup 4
 Requests
 
 You can install these libraries by running the following command:
+
 `pip install beautifulsoup4 requests`
 
  # Usage
@@ -18,10 +19,15 @@ To use the script, simply run the scraper.py file in your Python environment.you
 The script will extract data from each website and save it in a CSV file named output.csv. The CSV file will contain the following columns:
 
 Stock
+
 Price
+
 Image
+
 Name
+
 SKU
+
 You can use this data to analyze your competitor's pricing strategy and make informed business decisions.
 
 # Contributing
